@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Web with react JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tamil_rockzz
+- 📫 Reach me @tamil_rockzz
 - 
 
 <!---
